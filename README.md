@@ -1,16 +1,9 @@
-# parallax_platformer
+# 本期是flutter教學系列的第二十四期
 
-A new Flutter project.
+# 教學內容包括：
+- parallax 視差滾動
+# 教學預期：學員能夠輕鬆做視差滾動效果
+視頻地址：https://youtu.be/KUrR8yWf8RY <br>
+頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![遊戲截屏](https://github.com/imperativelyfunctional/rpg-collision-bonfire/blob/main/demo.gif)
