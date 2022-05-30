@@ -6,4 +6,4 @@
 視頻地址：https://youtu.be/KUrR8yWf8RY <br>
 頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-![遊戲截屏](https://github.com/imperativelyfunctional/rpg-collision-bonfire/blob/main/demo.gif)
+![遊戲截屏](https://github.com/imperativelyfunctional/parallax/blob/main/demo.gif)
